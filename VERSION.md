@@ -1,0 +1,3 @@
+MAJ 0
+MIN 0
+PAT 1
