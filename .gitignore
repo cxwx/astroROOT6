@@ -1,0 +1,6 @@
+tf_container/.cache/clangd/index
+tf_container/build
+tf_container/sh1_gen.sh
+README_md_ltex.json
+.clang-tidy
+.clangd
